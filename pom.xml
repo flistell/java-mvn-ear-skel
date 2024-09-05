@@ -17,7 +17,7 @@
   <modules>
     <module>ear-module</module>
     <module>war-module</module>
-    <module>ejb-module</module>
+    <module>jaxws-module</module>
   </modules>
 
 </project>
